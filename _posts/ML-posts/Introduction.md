@@ -1,9 +1,11 @@
 ---
-title: "Machine Learning Handbook"
-permalink: / 
-layout: default
-use_math: true
+layout: post
+title: "Introduction"
+author: "Fyodor Raevskiy"
+categories: journal
+tags: [documentation,sample]
 ---
+
 
 ![image](images/cover.png)
 *Authors: Filipp Sinitsyn, Stanislav Fedotov*
