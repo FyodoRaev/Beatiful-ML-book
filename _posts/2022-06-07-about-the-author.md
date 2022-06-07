@@ -4,7 +4,7 @@ title: "About the Translator"
 author: "Fyodor Raevskiy"
 categories: journal
 tags: [documentation,sample]
-image: cutting.jpg
+image: mainPic.jpg
 ---
 
 Hello everyone! My name is Fyodor, pronounced the same as the name of Fyodor Dostoevsky, if you know who it is :)
