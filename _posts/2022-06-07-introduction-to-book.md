@@ -43,7 +43,7 @@ tags: [documentation,sample]
 
 
 ## Introduction
-![image](images/cover.png)
+![image](https://ml-handbook.ru/chapters/intro/images/cover.png)
 *Authors: Filipp Sinitsyn, Stanislav Fedotov*
 
 
