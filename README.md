@@ -14,4 +14,5 @@
 ![img](https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif)
 
 <hr>
+
 # Many thanks to [Paul Le](https://github.com/LeNPaul) for the creation of Lagrange Jekyll template on which the book site is based 
