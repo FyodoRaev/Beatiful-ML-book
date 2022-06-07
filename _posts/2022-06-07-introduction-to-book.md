@@ -11,7 +11,7 @@ tags: [documentation,sample]
 
 ### Contents
 
-## Introduction (#introduction)
+## [Introduction](#introduction)
 
 1. ## Classic Supervised Learning
    1. Linear Models
