@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "About the Translator"
+author: "Fyodor Raevskiy"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hello everyone! My name is Fyodor, pronounced the same as the name of Fyodor Dostoevsky, if you know who it is :)
+I have been studying machine learning since September 2021, successfully completed the Tinkoff Generation course (the educational platform of a huge bank in Russia). I wanted to translate the textbook from the School of Data Analysis, as I did not find in the English-language Internet such a deep source as this one. Hope this helps someone. Good luck!
