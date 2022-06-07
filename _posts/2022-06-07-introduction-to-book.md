@@ -9,7 +9,7 @@ tags: [documentation,sample]
 <center>This is an online Machine Learning textbook made for people who are not frightened by mathematics and want to dive into ML technologies. You will learn classic theory and details of algorithms implementation going from the basics of ML and growing to the level where you are able to read sophisitaced scientific papers.</center>
 <hr>
 
-## [Introduction](Introduction.md)
+## [Introduction](/ML-posts/2022-06-07-intro-duc-tion.md)
 
 1. ## Classic Supervised Learning
    1. [Linear Models](LinearModels.md) 
