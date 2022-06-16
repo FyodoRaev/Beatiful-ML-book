@@ -19,6 +19,7 @@ Often we need to know not only the probability of an event, but the probability 
 
 ![img]("pasted1.jpg")
 
+
 A slightly simplified image in the form of Euler diagrams, but it conveys the meaning. From the diagram you can understand that $P(rain | thunder) = 1$, i.e. when there is thunder, there will always be rain. What about $P(rain|sunny)=\frac{P(rain  \space and  \space sunny)}{P(sunny)}$, i.e.  $P(A| B)=\frac{P(A,B)}{P(B)}$.
 
 Events A and  B are called independent if $P(A,B)=P(A)P(B)$,or the same as $P(A)=P(A| B)$. In this diagram, all events are dependent, because if one thing happens, you can draw conclusions about whether another will happen. An example of independent events: weather and the number of apps on your phone ( number of apps doesn't depend on the weather).
