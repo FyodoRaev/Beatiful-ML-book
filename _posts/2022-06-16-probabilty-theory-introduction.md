@@ -1,7 +1,7 @@
 # Read these resourses before this markdown. This thing is just a reminder of what you will learn in the following sourses:
 * "Deep Learning" by Ian Goodfellow et al. Chapter "Probability theory"
 * Or [this](https://towardsdatascience.com/probability-fundamentals-of-machine-learning-part-1-a156b4703e69#:~:text=Fundamentals%20of%20Machine%20Learning%20(Part%201)&text=Probability%20theory%20is%20a%20mathematical,of%20many%20machine%20learning%20algorithms).
-* [This is just a quick introduction]](https://medium.com/machine-learning-mindset/probability-theory-and-its-huge-importance-in-machine-learning-3a61b1601ccb)
+* [This is just a quick introduction](https://medium.com/machine-learning-mindset/probability-theory-and-its-huge-importance-in-machine-learning-3a61b1601ccb)
 
 
 ## Probability.
