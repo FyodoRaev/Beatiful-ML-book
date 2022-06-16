@@ -17,7 +17,7 @@ Often we need to know not only the probability of an event, but the probability 
 * What is the probability of rain if it is sunny now?
   
 
-![alt text](<https://ibb.co/6FqRW68> "Euler diagram")
+![img](https://ibb.co/6FqRW68)
 
 A slightly simplified image in the form of Euler diagrams, but it conveys the meaning. From the diagram you can understand that $P(rain | thunder) = 1$, i.e. when there is thunder, there will always be rain. What about $P(rain|sunny)=\frac{P(rain  \space and  \space sunny)}{P(sunny)}$, i.e.  $P(A| B)=\frac{P(A,B)}{P(B)}$.
 
